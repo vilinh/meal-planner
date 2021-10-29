@@ -1,9 +1,7 @@
 # Meal Planner
 A simple tool to track what you plan to eat!
 
-
-https://user-images.githubusercontent.com/81380688/139477043-04804780-ea5c-4745-99f1-ed49344e1485.mp4
-
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/81380688/139477175-323148f9-a1ce-4276-a79b-ed17aecdcf70.gif)
 
 
 ## Functionality

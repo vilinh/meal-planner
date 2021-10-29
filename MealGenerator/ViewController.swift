@@ -44,6 +44,12 @@ class ViewController: UIViewController {
     }
     
     
+    @IBAction func clearTapped(_ sender: Any) {
+        brekLabel.text = ""
+        lunLabel.text = ""
+        dinLabel.text = ""
+    }
+    
 
 }
 

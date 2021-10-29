@@ -117,6 +117,19 @@
                                     <action selector="addLunchTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="3Qq-5M-hJP"/>
                                 </connections>
                             </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Bld-Pd-YMY">
+                                <rect key="frame" x="172" y="806" width="70" height="43"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="filled" title="clear">
+                                    <fontDescription key="titleFontDescription" name="Avenir-Medium" family="Avenir" pointSize="21"/>
+                                    <color key="baseBackgroundColor" red="0.73137980700000005" green="0.51614993809999998" blue="0.38820612430000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                </buttonConfiguration>
+                                <connections>
+                                    <action selector="clearTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="unW-KU-gGn"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" red="0.81354311331068474" green="0.90797577366294302" blue="0.97488588275331445" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>

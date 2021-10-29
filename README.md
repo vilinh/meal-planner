@@ -1,4 +1,5 @@
-# Meal Generator
+# Meal Planner
+A simple tool to track what you plan to eat!
 
 ## Functionality
 
